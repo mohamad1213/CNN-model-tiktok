@@ -1,2 +1,9 @@
 app-store-scraper
 google-play-scraper
+beautifulsoup4
+tensorflow
+scikit-learn
+googletrans==4.0.0-rc1
+textblob
+keras
+pandas
