@@ -1,4 +1,4 @@
-# Sentiment-analysis-tiktok
+# CNN Models
 
 ## Analisis sentiment dalam comment di tiktok 
 
