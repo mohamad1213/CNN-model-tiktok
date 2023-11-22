@@ -3,9 +3,9 @@
 ## Analisis sentiment dalam comment di tiktok 
 
 ## Tutotrial Pemakaian 
-1. Download atau git clone ./https://github.com/mohamad1213/Sentiment-analysis-tiktok
+1. Download atau git clone ./https://github.com/mohamad1213/CNN-model-tiktok
 2. install package python
-   py -m pip install app-store-scraper, google-play-scraper, textblob, nltk
+   py -m pip -r requirements.txt
 3. jalankan dengan tulis di terminal py sentiment-tiktok.py
 
 jika kamu ingin mengganti app playstore yang mau di review silahkan, rubah app packagenya, 
